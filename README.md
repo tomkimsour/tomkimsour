@@ -2,7 +2,7 @@
 - 👀 I’m interested in SLAM and robotics more generally. Rustaceans as well.
 - 🌱 I’m currently learning tch-rs and plotters-rs library
 - 💞️ I’m looking to collaborate on ROS ecosystem
-- 📫 You can reach me at tomkimsour@gmail.com
+- 📫 You can reach me at thomas.ung.pro@gmail.com
 
 <!---
 tomkimsour/tomkimsour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
