@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomkimsour an software engineer member of RoboBreizh
 - 👀 I’m interested in SLAM and robotics more generally. Rustaceans as well.
-- 🌱 I’m currently learning tch-rs and plotters-rs library
+- 🌱 I’m currently learning about fleat management
 - 💞️ I’m looking to collaborate on ROS ecosystem
 - 📫 You can reach me at thomas.ung.pro@gmail.com
 
