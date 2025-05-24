@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomkimsour an software engineer member of RoboBreizh
+- 👋 Hi, I’m @tomkimsour an software engineer at PAL robotics
 - 👀 I’m interested in SLAM and robotics more generally. Rustaceans as well.
 - 🌱 I’m currently learning about fleat management
 - 💞️ I’m looking to collaborate on ROS ecosystem
